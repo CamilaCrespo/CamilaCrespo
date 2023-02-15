@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**CamilaCrespo/CamilaCrespo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# HORARIO   
+| hora  | lunes                    | martes              | miercoles                         | jueves                 | viernes               |
+|-------|--------------------------|---------------------|-----------------------------------|------------------------|-----------------------|
+| 11:00 | mantenimiento de computo |                     | mantenimiento de redes de computo |                        | comunidades vistuales |
+| 12:00 | mantenimiento de computo | literatura          | mantenimiento de redes de computo | comunidades virtuales  | comunidades virtuales |
+| 13:00 | historia de mexico       | biologia            | literatura                        | biologia               | literatura            |
+| 14:00 | biologia                 | ingles              | biologia                          | historia de mexico     | matematicas           |
+| 15:00 | fisica                   | historia de mexico  | actividades fisicas deportivas    | matematicas            | ingles                |
+| 16:00 | ingles                   | fisica              | matematicas                       | fisica                 | fisica                |
+| 17:00 | matematicas              | matematicas         | fisica                            | orientacion educativa  |                       |
